@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SMK20(SAMD)", "SMK20(SAMD)\SMK20(SAMD).cproj", "{99ED40F8-D7FF-4DE7-9A5A-49DF079868E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ED40F8-D7FF-4DE7-9A5A-49DF079868E3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{99ED40F8-D7FF-4DE7-9A5A-49DF079868E3}.Debug|ARM.Build.0 = Debug|ARM
+		{99ED40F8-D7FF-4DE7-9A5A-49DF079868E3}.Release|ARM.ActiveCfg = Release|ARM
+		{99ED40F8-D7FF-4DE7-9A5A-49DF079868E3}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
